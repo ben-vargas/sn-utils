@@ -2,12 +2,21 @@
 
 ## Supported Versions
 
-To ensure the best security, always install and use the latest version of  SN Utils from your preferred browser's extension store. Updates are automatically distributed through the browser's web store to keep your installation secure and up to date.
+Only the latest SN Utils version distributed through the supported browser stores
+receives security updates. This repository does not contain the current extension
+source and should not be used to build or install SN Utils.
 
 ## Reporting a Vulnerability
 
-If you discover a vulnerability, please report it by emailing us at [apps@arnoudkooi.com](mailto:apps@arnoudkooi.com) or by submitting a [Security Advisory](https://github.com/arnoudkooi/SN-Utils/security/advisories) on this repository.
+Do not report vulnerabilities in a public Issue or Discussion.
 
-## Transparency
+Report them privately by either:
 
-Code scanning is enabled for both SN Utils and sn-scriptsync. If your organization needs to assess the security of SN Utils before installation, details can be provided upon request. Please contact via [apps@arnoudkooi.com](mailto:apps@arnoudkooi.com) for further details.
+- emailing [security@snutils.com](mailto:security@snutils.com), or
+- submitting a [private GitHub Security Advisory](https://github.com/arnoudkooi/SN-Utils/security/advisories).
+
+Include the affected version, reproduction steps, impact, and any supporting
+screenshots or logs that can be shared safely.
+
+For current security and procurement information, see
+[snutils.com/security](https://snutils.com/security).

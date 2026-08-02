@@ -1,13 +1,14 @@
-images/.DS_Store
-fonts/.DS_Store
 .DS_Store
-
-# web-ext stuff
+.claude/
+.vscode/
+node_modules/
 .jshintrc
-publish/*
-node_modules/*
 package.json
 package-lock.json
-admin/*
-!publish/*.json
-.vscode/settings.json
+.github/instruction.png
+
+# Historical binary assets are retained locally but removed from Git tracking.
+images/
+webfonts/
+publish/
+js/monaco/vs/base/browser/ui/codicons/codicon/
